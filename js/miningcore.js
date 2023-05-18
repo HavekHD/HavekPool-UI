@@ -23,7 +23,7 @@
 
 
 // read WebURL from current browser
-var WebURL         = "https://havek.net";  // Website URL is:  https://domain.com/
+var WebURL         = "https://pdn.havek.net";  // Website URL is:  https://domain.com/
 // WebURL correction if not ends with /
 if (WebURL.substring(WebURL.length-1) != "/")
 {
